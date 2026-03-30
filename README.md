@@ -6,19 +6,27 @@ Currently building a privacy-first health wearable for seniors. Stealth mode. En
 
 ---
 
-**Stack**
-
-`React` `Next.js` `Node.js` `Python` `Express` `TypeScript` `RAG` `LLM APIs` `Docker` `SQL` `WebSockets`
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar98923&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar98923&layout=compact&hide_border=true&hide_title=true&theme=default" height="150" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tushar98923&hide_border=true&theme=default" height="150" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM%20Studio-8B5CF6?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tushar98923&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
 
 ---
