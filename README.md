@@ -5,7 +5,7 @@
 
 <br/>
 
-**`Tushar`** · 20 · India · Solo Founder
+**`Tushar`** · 20 · India
 
 Building tools that respect the user.
 
@@ -108,6 +108,3 @@ I'm interested in the intersection of **mobile engineering**, **on-device AI**, 
 
 ---
 
-<div align="center">
-<sub>Built with intent. All code written by hand.</sub>
-</div>
