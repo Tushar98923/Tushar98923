@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C86B45&center=true&vCenter=true&width=600&lines=React+Native+%26+Mobile+Engineer;Building+at+the+intersection+of+AI+%2B+Health;Privacy-first+software+%26+hardware)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C86B45&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Mobile+Engineer;Building+at+the+intersection+of+AI+%2B+Health;Privacy-first+software+%26+hardware)](https://git.io/typing-svg)
 
 <br/>
 
